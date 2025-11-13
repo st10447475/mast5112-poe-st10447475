@@ -3,13 +3,6 @@
 
 Welcome to the Golden Pallete Resturant! Follow the steps below to set up and run the application locally. This README also includes the changelog for recent updates and refactoring.
 
-## Table of Contents
-- [Setup Instructions](#setup-instructions)
-- [Changelog](#changelog)
-- [Contributors](#contributors)
-- [License](#license)
-
----
 
 ## Setup Instructions
 
@@ -17,7 +10,7 @@ To get started with the project, follow these steps:
 
 ```bash
 # Clone the repository
-git clone github.com/ST10450068/MAST5112-PART3
+git clone github.com/ST10447475/MAST5112-PART3
 
 # Navigate to the project directory
 cd project_directory
@@ -43,8 +36,7 @@ npm install
 
 ## Changelog
 Part 3 Changes (Refactoring and Updates)
-Here’s a list of all the changes made since Part 2 and the additional refactorings:
----
+
 
 ### New Features:
 - **Dark Mode Toggle**: Added a toggle button to switch between light and dark modes.
@@ -61,18 +53,7 @@ Here’s a list of all the changes made since Part 2 and the additional refactor
 - **State Management**: Corrected some issues where the state was not updating correctly when deleting or adding menu items.
 
 ---
-## Contributors
 
-
-- **Griffin (aka Kabelo Kgosana)**: Lead Developer & Contributor
-
-I truly appreciate ymy efforts in making this project better!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for more details.
-
----
 ## Styling Summary
 
 This README utilizes various Markdown styles to ensure clarity and enhance the presentation:
@@ -90,5 +71,5 @@ This README utilizes various Markdown styles to ensure clarity and enhance the p
 
 ## YouTube Link
 
-[Click here to view the video tutorial](https://youtu.be/w2ldt9baY-A)
+[Click here to view the video tutorial](https://youtu.be/E2kv8KYJCZA)
 
