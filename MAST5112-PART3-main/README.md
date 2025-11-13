@@ -24,12 +24,7 @@ npm install
 **Important**: Make sure all dependencies are installed before running the app.
 *Note*: If you encounter any issues, feel free to open an issue.
 ---
-## Screenshots:
-![Screenshot 2024-11-22 103510](https://github.com/user-attachments/assets/917bcd4d-473f-4000-8448-ddcc41ecd2b8)
-![Screenshot 2024-11-22 103536](https://github.com/user-attachments/assets/c5c23cf9-f4e2-44ab-b0e7-fbfdb4d081f7)
-![Screenshot 2024-11-22 103716](https://github.com/user-attachments/assets/64f608b1-6a72-4c7a-95aa-73350a43f7ea)
-![Screenshot 2024-11-22 103810](https://github.com/user-attachments/assets/da20a359-9b07-4e46-a64f-5f741ec622b3)
----
+
 
 
 
